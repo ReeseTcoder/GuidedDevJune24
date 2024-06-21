@@ -1,0 +1,118 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+      "A2": "UsrDummyProcess",
+      "A5": "c2288d0f-48dc-4a2c-b6da-b9162fc82ece",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "0f790a81-ea30-6359-cac0-0059b126e9a3",
+      "B8": "8.1.3.6734",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+        "A4": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "c6e6237d-de83-4754-a0d9-af90d7b59fd3",
+          "A2": "LaneSet1",
+          "A3": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "A4": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "A5": "0f790a81-ea30-6359-cac0-0059b126e9a3",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "f2105b0d-5bea-4b14-bf5d-12e066152104",
+              "A2": "Lane1",
+              "A3": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+              "A4": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+              "A5": "0f790a81-ea30-6359-cac0-0059b126e9a3",
+              "IL2": "c6e6237d-de83-4754-a0d9-af90d7b59fd3",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "c6e6237d-de83-4754-a0d9-af90d7b59fd3",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "683b325a-7b31-4179-b788-f5feb0d7057c",
+          "A2": "StartEvent1",
+          "A3": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "A4": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "A5": "0f790a81-ea30-6359-cac0-0059b126e9a3",
+          "IL2": "f2105b0d-5bea-4b14-bf5d-12e066152104",
+          "BL3": "50;184",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
+          "BL8": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "68cf8a72-9a2b-4c16-a1bd-f69fa7249ee5",
+          "A2": "TerminateEvent1",
+          "A3": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "A4": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "A5": "0f790a81-ea30-6359-cac0-0059b126e9a3",
+          "IL2": "f2105b0d-5bea-4b14-bf5d-12e066152104",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "ab8de6a5-b8bb-49d4-8525-eee01784b557",
+          "A2": "SequenceFlow1",
+          "A3": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "A4": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "A5": "0f790a81-ea30-6359-cac0-0059b126e9a3",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "86a6644a-b370-40e2-8fdb-0d41aef7f708",
+          "CI1": "683b325a-7b31-4179-b788-f5feb0d7057c",
+          "CI2": "68cf8a72-9a2b-4c16-a1bd-f69fa7249ee5",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK34": "en-US",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}
