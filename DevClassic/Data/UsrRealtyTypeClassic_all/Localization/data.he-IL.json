@@ -19,20 +19,6 @@
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "ColumnName": "Id",
-          "Value": "af55941e-d9c0-4fdf-961b-5425f4462b46"
-        },
-        {
-          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-          "ColumnName": "Name",
-          "Value": ""
-        }
-      ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "ColumnName": "Id",
           "Value": "c156e430-a4c5-47e0-bb20-93854a841af3"
         },
         {

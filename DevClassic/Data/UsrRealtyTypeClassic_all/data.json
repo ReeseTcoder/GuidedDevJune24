@@ -24,26 +24,6 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "af55941e-d9c0-4fdf-961b-5425f4462b46"
-        },
-        {
-          "SchemaColumnUId": "3b61e422-1c68-f39d-d065-efddddac0990",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "a8863118-adeb-f513-b1a2-6deb767d6d6b",
-          "Value": 0.00
-        }
-      ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "c156e430-a4c5-47e0-bb20-93854a841af3"
         },
         {
