@@ -3,7 +3,7 @@
     "UId": "590f4449-a6e0-4233-8d28-ce649c90b50e",
     "Name": "UsrRealty",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "ModifiedOnUtc": "\/Date(1719805713000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrRealty.csproj",
     "DependsOn": [
@@ -11,6 +11,12 @@
         "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
         "PackageVersion": "7.8.0",
         "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
         "Type": 1
       }
     ]
